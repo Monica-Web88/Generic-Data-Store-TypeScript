@@ -1,4 +1,20 @@
 # DataStore
+
+/*
+This DataTypeStore.ts Class is a Generic Class that can create an array
+of any data type.
+
+Functions are:
+--------------
+Add a single or multiple data to the array.
+Remove data from array given an index
+Get all items from array
+Add only items with unique ID incase of Person dataType
+Person interface created 
+Find an item by name incase of Person dataType
+
+*/
+
 To execute the file:
 First generate the .js file
 
